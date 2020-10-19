@@ -1,6 +1,6 @@
 # COVID-19-X-ray-Dataset
 
-Full Paper available at: https://www.preprints.org/manuscript/202008.0215/v1
+Full Paper available at: https://www.preprints.org/manuscript/202008.0215/v2
 
 Background/introduction: The ravage of COVID-19 is not merely limited to taking its toll with half a million fatalities. It has halted the world economy, disrupting normalcy of lives with supervening severity than any other global catastrophe ofthe last few decades. The majority of the vaccine discovery attempts are still ontrial, making early detection and containment the only feasible redress. The existing diagnostic technique with high accuracy has the setbacks of being expensive and sophisticated, requiring skilled individuals for specimen collection and screening resulting in lower outreach. So, methods excluding direct human inter-vention are much sought after, and artificial intelligence-driven automated diag-nosis, especially with radiography images, captures the researchers’ interest.
 
